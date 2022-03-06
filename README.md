@@ -27,6 +27,17 @@ Breadth First Search (BFS) is an algorithm used for searching tree or graph like
        pip install pygame
 
 ---
+#### **Instructions**    
+## 
+The main file, takes as arguments the number of rows for the maze, number of columns, starting point, and finishing point. 
+A starting and finishing point is defined by a tuple of U(UP), D(DOWN), L(LEFT), R(RIGHT) and a number ranging from 0 to n-1, where is the number n of rows or columns.
+##  
+__Examples__
+
+    python main.py 8 8  U 0 R 7 
+    python main.py 4 5  U 0 D 0 
+
+---
 #### **Images**
 ##
 - Creating the path  
