@@ -29,8 +29,8 @@ Breadth First Search (BFS) is an algorithm used for searching tree or graph like
 ---
 #### **Instructions**    
 ## 
-The main file, takes as arguments the number of rows for the maze, number of columns, starting point, and finishing point. 
-A starting and finishing point is defined by a tuple of U(UP), D(DOWN), L(LEFT), R(RIGHT) and a number ranging from 0 to n-1, where is the number n of rows or columns.
+The main file, takes as arguments the number of rows for the maze, the number of columns for the maze,the starting point, and the finishing point of the maze. 
+A starting and finishing point is defined by a tuple of U(UP), D(DOWN), L(LEFT), R(RIGHT) and a number ranging from 0 to n-1, where n is the number of rows or columns.
 ##  
 __Examples__
 
