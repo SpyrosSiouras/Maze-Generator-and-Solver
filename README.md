@@ -29,9 +29,12 @@ Breadth First Search (BFS) is an algorithm used for searching tree or graph like
 ---
 #### **Images**
 ##
+- Creating the path  
 ![MazeGeneration](Images/MazeGeneration.png)
-
+- Searching the path  
+![SearchingPath](Images/SearchingPath.png)
+- Finding the path  
 ![FoundPath](Images/FoundPath.png)
 
-![SearchingPath](Images/SearchingPath.png)
+
 
